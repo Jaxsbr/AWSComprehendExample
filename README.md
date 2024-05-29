@@ -9,7 +9,7 @@ NOTE: This repository serves only as example of integrating and using AWS Compre
 
 ## Prerequisites
 
-- AWS billing account
+- AWS account
 - awscli profile configuration
 
 ## Run the console application
